@@ -3,10 +3,6 @@
 A simple Fraction implementation built to learn Python dunder methods.
 
 ## Goals
-
-- Learn object-oriented programming
-- Understand `self`
-- Learn operator overloading
 - Understand how Python translates operators into method calls
 - Build a mathematical object from scratch
 
